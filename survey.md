@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Green
+Favorite food: Humburger
+Favorite musician/band: A7X
+Favorite movie: The room
+Requested grade in the course: 100
